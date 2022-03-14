@@ -1,6 +1,6 @@
 {
-    "name": "Alkitab - By CV. IRANDO",
-    "short_name": "Alkitab",
+    "name": "holy_bible",
+    "short_name": "holy_bible",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
